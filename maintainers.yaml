@@ -10,6 +10,7 @@ maintainers:
       - name: "project-maintainers"
         members:
           - aantn
+          - alonelish
           - arikalon1
           - Avi-Robusta
           - pavangudiwada
@@ -17,4 +18,8 @@ maintainers:
           - Sheeproid
           - RoiGlinik
           - moshemorad
+          - naomi-robusta
           - mainred
+      - name: "emeritus"
+        members:
+          - itisallgood
