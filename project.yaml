@@ -25,7 +25,7 @@ repositories:
 
 website: "https://holmesgpt.dev"
 
-artwork: "https://landscape.cncf.io/logos/holmesgpt.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/holmesgpt"
 
 adopters:
   path: "https://github.com/HolmesGPT/holmesgpt/blob/master/ADOPTERS.md"
